@@ -1,2 +1,5 @@
 .vscode/
 build/
+.DS_Store
+*.ospx
+out/
